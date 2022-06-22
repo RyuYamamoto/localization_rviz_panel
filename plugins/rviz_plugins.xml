@@ -1,0 +1,7 @@
+<library path="localization_rviz_panel">
+    <class type="localization_rviz_panel::LocalizationRvizPanel" base_class_type="rviz_common::Panel">
+        <description>
+            LocalizationRvizPanel
+        </description>
+    </class>
+</library>
